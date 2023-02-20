@@ -1,0 +1,8 @@
+com\typing\test\typingtest\controllers\TypingTestController.class
+com\typing\test\typingtest\models\TypingTestResults.class
+com\typing\test\typingtest\models\TypingTest.class
+com\typing\test\typingtest\repositories\ITypingTestRepository.class
+com\typing\test\typingtest\repositories\impl\TypingTestRepository.class
+com\typing\test\typingtest\services\TypingTestService.class
+com\typing\test\typingtest\models\Paragraph.class
+com\typing\test\typingtest\TypingtestApplication.class
